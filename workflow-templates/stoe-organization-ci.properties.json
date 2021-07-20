@@ -1,0 +1,13 @@
+{
+    "name": "@stoe Organization Workflow",
+    "description": "@stoe Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go", "Javascript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
