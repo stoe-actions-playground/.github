@@ -3,7 +3,8 @@
     "description": "@stoe Organization CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Go", "Javascript"
+        "Javascript",
+        "CI
     ],
     "filePatterns": [
         "package.json$",
